@@ -12,3 +12,4 @@ Revised on how to receive input from a user in Java.
 # Preparing directory for first actual Java project.
 # will be working on my first Java project,  this project will be used by the user to store and keep track of all items in an inventory.
 # Studied on interfaces and abstract classes.
+# Learnt how to read and write to txt files in Java.
