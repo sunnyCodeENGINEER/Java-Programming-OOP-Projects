@@ -5,8 +5,8 @@ public class FileInpiutAndOutput2 {
         // copying conmtents of one text file to another
 
         try {
-            BufferedWriter bw2 = new BufferedWriter(new FileWriter("C:\\Users\\edonk\\OneDrive\\Documents\\GitHub\\Java-Programming-OOP-Projects\\Java Project 1\\Pen Project\\test\\output_copy.txt"));
-            BufferedReader br2 = new BufferedReader(new FileReader("C:\\Users\\edonk\\OneDrive\\Documents\\GitHub\\Java-Programming-OOP-Projects\\Java Project 1\\Pen Project\\test\\output.txt"));
+            BufferedWriter bw2 = new BufferedWriter(new FileWriter("output_copy.txt"));
+            BufferedReader br2 = new BufferedReader(new FileReader("output.txt"));
 
             String s;
             while((s = br2.readLine()) != null) {
