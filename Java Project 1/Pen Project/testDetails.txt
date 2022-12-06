@@ -1,0 +1,6 @@
+Names                                   - Email                    - Phone Numbers
+Emmanuel                                - hello@gmai.com           - 000 000 0000
+Manuel                                  - hello@gmai.com           - 000 000 1111
+Mmanuel                                 - hello@gmai.com           - 000 222 0000
+Emma                                    - hello@gmai.com           - 333 000 0000
+Emmaniii                                - hello@gmai.com           - 000 000 4444
