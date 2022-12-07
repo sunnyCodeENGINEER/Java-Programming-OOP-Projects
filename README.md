@@ -19,3 +19,4 @@ Revised on how to receive input from a user in Java.
 # Studied on Regular Expressions in Java.
 I am planning on making a little project using Regualr Expressions in Java soon.
 * Started Email and Phone Number reader project.
+* Still working on project.
