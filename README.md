@@ -21,3 +21,4 @@ I am planning on making a little project using Regualr Expressions in Java soon.
 * Started Email and Phone Number reader project.
 * Still working on project.
 * Studied on Generics in Java Programming.
+* Still learning on Object Oriented Programming in Java (Revised on abstract classes and interfaces).
